@@ -2,7 +2,7 @@
 
 Hey, nice to meet you! I am Production Engineer with post-graduation in Data Science. 
 
-I have been working with data for almost 5 years in different positions as Business Analyst (Internship) and Data Analyst. 
+I have 4+ years of experience across large-scale digital platforms, including media and high-volume e-commerce environments
 
 I have experience with Data Management in Cloud, Data Transformation (ETL) and Data Visualization.
 
